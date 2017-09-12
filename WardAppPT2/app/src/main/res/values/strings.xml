@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WardApp</string>
+    <string name="title_patient_detail">Patient Detail</string>
+</resources>
